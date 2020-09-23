@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/archivo_black</item>
+        <item>@font/artifika</item>
+        <item>@font/arvo_bold</item>
+        <item>@font/bad_script</item>
+        <item>@font/biorhyme_extralight</item>
+        <item>@font/droid_sans_bold</item>
+        <item>@font/lusitana_bold</item>
+        <item>@font/syncopate_bold</item>
+    </array>
+</resources>
